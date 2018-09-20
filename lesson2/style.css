@@ -1,9 +1,151 @@
 
-html {
-  width: 1280px;
-  height: 323px;
+html, body {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1280px;
+  align-content: center;
+  justify-content: center;  
 }
 
 header {
   background: rgb(68, 81, 97);
+}
+
+header h1 {
+  font-family: Arial;
+  color:  #fff;
+  font-size: 60px;
+  font-weight: 400;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
+}
+
+header ul li {  
+  font-family: Arial;
+  color:  #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
+}
+
+header > article {
+  /* float: left; */
+}
+
+header img {
+  background-color:  #fff;
+  width: 469px;
+  height: 214px;
+  float: right;
+}
+
+#about {
+  background: rgb(255, 255, 255);
+}
+
+#about h2 {
+  font-family: Arial;
+  color:  #445161;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: center;
+}
+
+#about p {
+  font-family: Arial;
+  color:  #333;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+#about video {
+  background-color: rgb(68, 81, 97);
+  /* float: right; */
+}
+
+#dignity {
+  background: rgb(245, 245, 245)
+}
+
+#dignity h2 {
+  font-family: Arial;
+  color:  #445161;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+}
+
+#dignity li {
+  font-family: Arial;
+  color:  #333333;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+#screen {
+  background: rgb(255, 255, 255);
+}
+
+#screen h2 {
+  font-family: Arial;
+  color:  #445161;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+}
+
+#screen h3 {
+  font-family: Arial;
+  color:  #445161;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+}
+
+#screen figure {
+  font-family: Arial;
+  color:  #333333;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+#review {
+  background: rgb(245, 245, 245);
+}
+
+#review p {
+  background: rgb(236, 236, 236);
+  font-family: Arial;
+  color:  #333333;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 18px;
+  text-align: left;
+}
+
+#review img {
+  border-radius: 50%;
+  background-color:  #445161;
+  width: 75px;
+  height: 75px
+}
+
+#buy {
+  background: rgb(255, 255, 255);
+}
+
+footer {
+  background: rgb(68, 81, 98);
 }
