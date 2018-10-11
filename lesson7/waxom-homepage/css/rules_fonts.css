@@ -1,0 +1,98 @@
+/* 
+FONT: Montserrat 
+1) MontserratBold
+2) MontserratExtraBold
+3) MontserratLight
+4) MontserratRegular
+5) MontserratSemiBold
+*/
+
+@font-face {
+	font-family: MontserratBold;
+	src: url("../fonts/Montserrat/Bold/MontserratBold.ttf");
+	src: url("../fonts/Montserrat/Bold/MontserratBold.woff") format("woff"),
+			 url("../fonts/Montserrat/Bold/MontserratBold.woff2") format("woff2"),
+			 url("../fonts/Montserrat/Bold/MontserratBold.eot") format("eot");
+}
+
+@font-face {
+	font-family: MontserratExtraBold;
+	src: url("../fonts/Montserrat/ExtraBold/MontserratExtraBold.ttf");
+	src: url("../fonts/Montserrat/ExtraBold/MontserratExtraBold.woff") format("woff"),
+			 url("../fonts/Montserrat/ExtraBold/MontserratExtraBold.woff2") format("woff2"),
+			 url("../fonts/Montserrat/ExtraBold/MontserratExtraBold.eot") format("eot");
+}
+
+@font-face {
+	font-family: MontserratLight;
+	src: url("../fonts/Montserrat/Light/MontserratLight.ttf");
+	src: url("../fonts/Montserrat/Light/MontserratLight.woff") format("woff"),
+			 url("../fonts/Montserrat/Light/MontserratLight.woff2") format("woff2"),
+			 url("../fonts/Montserrat/Light/MontserratLight.eot") format("eot");
+}
+
+
+@font-face {
+	font-family: MontserratRegular;
+	src: url("../fonts/Montserrat/Regular/MontserratRegular.ttf");
+	src: url("../fonts/Montserrat/Regular/MontserratRegular.woff") format("woff"),
+			 url("../fonts/Montserrat/Regular/MontserratRegular.woff2") format("woff2"),
+			 url("../fonts/Montserrat/Regular/MontserratRegular.eot") format("eot");
+}
+
+@font-face {
+	font-family: MontserratSemiBold;
+	src: url("../fonts/Montserrat/SemiBold/MontserratSemiBold.ttf");
+	src: url("../fonts/Montserrat/SemiBold/MontserratSemiBold.woff") format("woff"),
+			 url("../fonts/Montserrat/SemiBold/MontserratSemiBold.woff2") format("woff2"),
+			 url("../fonts/Montserrat/SemiBold/MontserratSemiBold.eot") format("eot");
+}
+
+/* 
+FONT: Raleway 
+1) RalewayExtraBold
+2) RalewayLight
+3) RalewayMedium
+4) RalewayRegular
+5) RalewaySemiBold
+*/
+
+@font-face {
+	font-family: RalewayExtraBold;
+	src: url("../fonts/Raleway/ExtraBold/RalewayExtraBold.ttf");
+	src: url("../fonts/Raleway/ExtraBold/RalewayExtraBold.woff") format("woff"),
+			 url("../fonts/Raleway/ExtraBold/RalewayExtraBold.woff2") format("woff2"),
+			 url("../fonts/Raleway/ExtraBold/RalewayExtraBold.eot") format("eot");
+}
+
+@font-face {
+	font-family: RalewayLight;
+	src: url("../fonts/Raleway/Light/RalewayLight.ttf");
+	src: url("../fonts/Raleway/Light/RalewayLight.woff") format("woff"),
+			 url("../fonts/Raleway/Light/RalewayLight.woff2") format("woff2"),
+			 url("../fonts/Raleway/Light/RalewayLight.eot") format("eot");
+}
+
+@font-face {
+	font-family: RalewayMedium;
+	src: url("../fonts/Raleway/Medium/RalewayMedium.ttf");
+	src: url("../fonts/Raleway/Medium/RalewayMedium.woff") format("woff"),
+			 url("../fonts/Raleway/Medium/RalewayMedium.woff2") format("woff2"),
+			 url("../fonts/Raleway/Medium/RalewayMedium.eot") format("eot");
+}
+
+@font-face {
+	font-family: RalewayRegular;
+	src: url("../fonts/Raleway/Regular/RalewayRegular.ttf");
+	src: url("../fonts/Raleway/Regular/RalewayRegular.woff") format("woff"),
+			 url("../fonts/Raleway/Regular/RalewayRegular.woff2") format("woff2"),
+			 url("../fonts/Raleway/Regular/RalewayRegular.eot") format("eot");
+}
+
+@font-face {
+	font-family: RalewaySemiBold;
+	src: url("../fonts/Raleway/SemiBold/RalewaySemiBold.ttf");
+	src: url("../fonts/Raleway/SemiBold/RalewaySemiBold.woff") format("woff"),
+			 url("../fonts/Raleway/SemiBold/RalewaySemiBold.woff2") format("woff2"),
+			 url("../fonts/Raleway/SemiBold/RalewaySemiBold.eot") format("eot");
+}
