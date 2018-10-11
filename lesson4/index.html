@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Lesson #4. From PSD to HTML!</title>
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="assets/css/fontello.css">
+  <link rel="stylesheet" href="assets/css/normalize.css">
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <header>
@@ -170,13 +171,16 @@
       </div>
     </section>
   </main>
-  <footer>
-    <h2>Contacts</h2>
-    <form action="submit">
-      <fieldset id="name"></fieldset>
-      <fieldset id="email"></fieldset>
-      <textarea name="message" id="" cols="30" rows="10"></textarea>
+  <footer class="main-footer">
+    <h2 class="main-footer_title">Contacts</h2>
+    <form class="main-footer_form" action="#" method="post">
+      <input type="text" placeholder="Your name:">
+      <input type="email" placeholder="Your email:">
+      <textarea placeholder="Your message:"></textarea>
+      <input type="submit" value="send">
     </form>
+    <div class="main-footer_contacts"></div>
+    <div class="main-footer_social"></div>
   </footer>
 </body>
 </html>
